@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img = "lib/assets/to_readme/tela inicial.gif">
+
 
 ## Getting Started
 
