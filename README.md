@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img = "lib/assets/to_readme/tela inicial.gif">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
